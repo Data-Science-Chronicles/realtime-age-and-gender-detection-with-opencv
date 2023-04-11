@@ -7,7 +7,7 @@ The dataset used for training this model is available on Kaggle [at](https://www
 
 ## Training
 
-The model was trained using a Kaggle notebook available (here) [https://www.kaggle.com/code/rashidrk/age-and-gender-detection]. Due to RAM constraints, the training process was limited to only 110 images per age. While this approach can work, it's worth noting that using a small number of images for training may lead to overfitting.
+The model was trained using a Kaggle notebook available [here](https://www.kaggle.com/code/rashidrk/age-and-gender-detection). Due to RAM constraints, the training process was limited to only 110 images per age. While this approach can work, it's worth noting that using a small number of images for training may lead to overfitting.
 
 ## Face Detection
 
@@ -20,7 +20,7 @@ To use this code, you will need to install the following dependencies:
 * Python 3.x
 * OpenCV
 * numpy
-*tensorflow
+* tensorflow
 * argparse
 
 You can install these dependencies using pip. For example:
